@@ -1,5 +1,5 @@
 <?php
-echo "<h2>Activity 1: GadgetGrove Catalog with Arrays</h2>";
+echo "<h2>Activity 1:</h2>";
 
 $g4adg3tNames = ["Smartphone", "Laptop", "Tablet", "Smartwatch", "Camera", "Headphones", "Bluetooth Speaker", "Gaming Console", "Drone", "Printer", "Monitor", "Keyboard"];
 $g4adg3tPrices = [12000.00, 35000.00, 15000.00, 8000.00, 25000.00, 5000.00, 3000.00, 20000.00, 45000.00, 7000.00, 12000.00, 2500.00];
